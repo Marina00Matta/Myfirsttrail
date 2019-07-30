@@ -1,2 +1,3 @@
-# Myfirsttrail
-Html 1
+# My First Website
+Made by Marina Matta.
+Following Web development course.
